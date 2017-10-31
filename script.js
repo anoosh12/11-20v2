@@ -1,3 +1,4 @@
+//hi
 function firstLast6(num){
 
     if(num[0]==6 || num[num.length-1]==6){
